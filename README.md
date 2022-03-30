@@ -5,7 +5,7 @@ Electronic dosing pumps are usually made from plastic, thermoplastic, or stainle
 
 Electronic Dosing Pumps use expansion and contraction chambers to move the fluid. They can pump a variety of liquids including corrosives, acids, and bases as well as viscous liquids and slurries. <br>
 
-How does a dosing pump work? <br>
+**How does a dosing pump work?** <br>
 Depending on the brand and model, a dosing pump functions in different ways. All these methods involve drawing a certain amount of liquid and injecting the chemical into the tank or pipe containing the fluid being metered. An electronic dosing pump is powered by an electric motor or air actuator and has a controller that turns the pump on and off while managing the flow rate as well. <br>
 
 Electronic dosing pumps are positive displacement pumps that use a reciprocating diaphragm to move the fluid. Since these pumps do not have any internal parts that can rub against each other to create friction and cause wear, they are quite reliable and have a long life. In addition to this, they also do not require seals or lubrication in the pump head, which also negates the possibility of oil vapor contamination or leakage of the pumped medium. <br>
@@ -16,7 +16,7 @@ When a dosing pump is primed, that is, all the air is pushed out of the lines up
 
 An electronic dosing pump is designed to be reliable so once it is set up properly, it does not require a lot of input except in emergency situations. If there is a product level problem or any other problem, an alarm activates to warn the operator. If the product runs out, the system may also shut down to avoid untreated water or liquid seeping into the treated fluid. <br>
 
-How to set up a dosing pump? <br>
+**How to set up a dosing pump?** <br>
 Since the components of a dosing system are very important, their setup is critical to its overall performance. The first thing to ensure is that all the components are compatible with the product being dosed and the feed stream. Fluids that are highly corrosive, have high pressure or high temperature needs specialized parts so that the dosing system does not melt, burst, or corrode. The best electronic dosing pump manufacturers in India provide their clients with consultancy services to determine what kind of electronic dosing pump would suit their needs the best. <br>
 
 Once you determine that everything is compatible, the next step is deciding an appropriate dosing point. There are two things that must be taken into consideration while determining this, the point should be located where the product mixes well and does not affect any other pipe parts. For example, if it is placed before a valve or water meter then these parts could prematurely corrode, not read properly or have a build-up of scale or sludge. <br>
